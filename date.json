@@ -1,0 +1,598 @@
+[
+	{
+		"National": [
+			{
+				"Date": "10 February",
+				"Day": "Thu",
+				"Holiday": "Chinese New Year"
+			},
+			{
+				"Date": "11 February",
+				"Day": "Sun",
+				"Holiday": "Chinese New Year Holiday"
+			},
+			{
+				"Date": "22 May",
+				"Day": "Wed",
+				"Holiday": "Wesak Day"
+			},
+			{
+				"Date": "10 April",
+				"Day": "Wed",
+				"Holiday": "Hari Raya Aidilfitri"
+			},
+			{
+				"Date": "11 April",
+				"Day": "Thu",
+				"Holiday": "Hari Raya Aidilfitri"
+			},
+			{
+				"Date": "01 May",
+				"Day": "Wed",
+				"Holiday": "Labour Day"
+			},
+			{
+				"Date": "30 May",
+				"Day": "Thu",
+				"Holiday": "Harvest Festival"
+			},
+			{
+				"Date": "03 June",
+				"Day": "Mon",
+				"Holiday": "Agong's Birthday"
+			},
+			{
+				"Date": "07 July",
+				"Day": "Sun",
+				"Holiday": "Awal Muharram"
+			},
+			{
+				"Date": "31 August",
+				"Day": "Sat",
+				"Holiday": "Merdeka Day"
+			},
+			{
+				"Date": "16 September",
+				"Day": "Mon",
+				"Holiday": "Malaysia Day"
+			},
+			{
+				"Date": "16 September",
+				"Day": "Mon",
+				"Holiday": "Prophet Muhammad's Birthday"
+			},
+			{
+				"Date": "25 December",
+				"Day": "Wed",
+				"Holiday": "Christmas Day"
+			}
+		],
+		"Negeri Sembilan": [
+			{
+				"Date": "14 January",
+				"Day": "Sun",
+				"Holiday": "YDPB Negeri Sembilan's Birthday"
+			},
+			{
+				"Date": "25 January",
+				"Day": "Thu",
+				"Holiday": "Thaipusam"
+			},
+			{
+				"Date": "08 February",
+				"Day": "Thu",
+				"Holiday": "Israk and Mikraj"
+			},
+			{
+				"Date": "12 February",
+				"Day": "Mon",
+				"Holiday": "Chinese New Year Holiday"
+			},
+			{
+				"Date": "31 October",
+				"Day": "Thu",
+				"Holiday": "Deepavali"
+			},
+			{
+				"Date": "01 January",
+				"Day": "Mon",
+				"Holiday": "New Year's Day"
+			}
+		],
+		"Johor": [
+			{
+				"Date": "25 January",
+				"Day": "Thu",
+				"Holiday": "Thaipusam"
+			},
+			{
+				"Date": "12 March",
+				"Day": "Tue",
+				"Holiday": "Awal Ramadan"
+			},
+			{
+				"Date": "23 March",
+				"Day": "Sat",
+				"Holiday": "Sultan of Johor's Birthday"
+			},
+			{
+				"Date": "11 August",
+				"Day": "Sun",
+				"Holiday": "Hari Hol Almarhum Sultan Iskandar"
+			},
+			{
+				"Date": "31 October",
+				"Day": "Thu",
+				"Holiday": "Deepavali"
+			}
+		],
+		"Kuala Lumpur": [
+			{
+				"Date": "25 January",
+				"Day": "Thu",
+				"Holiday": "Thaipusam"
+			},
+			{
+				"Date": "01 February",
+				"Day": "Thu",
+				"Holiday": "Federal Territory Day"
+			},
+			{
+				"Date": "12 February",
+				"Day": "Mon",
+				"Holiday": "Chinese New Year Holiday"
+			},
+			{
+				"Date": "28 March",
+				"Day": "Thu",
+				"Holiday": "Nuzul Al-Quran"
+			},
+			{
+				"Date": "31 October",
+				"Day": "Thu",
+				"Holiday": "Deepavali"
+			},
+			{
+				"Date": "01 January",
+				"Day": "Mon",
+				"Holiday": "New Year's Day"
+			}
+		],
+		"Labuan": [
+			{
+				"Date": "30 May",
+				"Day": "Thu",
+				"Holiday": "Harvest Festival"
+			},
+			{
+				"Date": "31 May",
+				"Day": "Fri",
+				"Holiday": "Harvest Festival Holiday"
+			},
+			{
+				"Date": "01 February",
+				"Day": "Thu",
+				"Holiday": "Federal Territory Day"
+			},
+			{
+				"Date": "12 February",
+				"Day": "Mon",
+				"Holiday": "Chinese New Year Holiday"
+			},
+			{
+				"Date": "28 March",
+				"Day": "Thu",
+				"Holiday": "Nuzul Al-Quran"
+			},
+			{
+				"Date": "31 October",
+				"Day": "Thu",
+				"Holiday": "Deepavali"
+			},
+			{
+				"Date": "01 January",
+				"Day": "Mon",
+				"Holiday": "New Year's Day"
+			}
+		],
+		"Putrajaya": [
+			{
+				"Date": "25 January",
+				"Day": "Thu",
+				"Holiday": "Thaipusam"
+			},
+			{
+				"Date": "01 February",
+				"Day": "Thu",
+				"Holiday": "Federal Territory Day"
+			},
+			{
+				"Date": "12 February",
+				"Day": "Mon",
+				"Holiday": "Chinese New Year Holiday"
+			},
+			{
+				"Date": "28 March",
+				"Day": "Thu",
+				"Holiday": "Nuzul Al-Quran"
+			},
+			{
+				"Date": "31 October",
+				"Day": "Thu",
+				"Holiday": "Deepavali"
+			},
+			{
+				"Date": "01 January",
+				"Day": "Mon",
+				"Holiday": "New Year's Day"
+			}
+		],
+		"Kedah": [
+			{
+				"Date": "08 February",
+				"Day": "Thu",
+				"Holiday": "Israk and Mikraj"
+			},
+			{
+				"Date": "18 June",
+				"Day": "Tue",
+				"Holiday": "Hari Raya Haji Holiday"
+			},
+			{
+				"Date": "30-June",
+				"Day": "Sun",
+				"Holiday": "Sultan of Kedah's Birthday"
+			},
+			{
+				"Date": "12 March",
+				"Day": "Tue",
+				"Holiday": "Awal Ramadan"
+			},
+			{
+				"Date": "31 October",
+				"Day": "Thu",
+				"Holiday": "Deepavali"
+			}
+		],
+		"Perlis": [
+			{
+				"Date": "17 May",
+				"Day": "Fri",
+				"Holiday": "Raja Perlis' Birthday"
+			},
+			{
+				"Date": "08 February",
+				"Day": "Thu",
+				"Holiday": "Israk and Mikraj"
+			},
+			{
+				"Date": "12 February",
+				"Day": "Mon",
+				"Holiday": "Chinese New Year Holiday"
+			},
+			{
+				"Date": "28 March",
+				"Day": "Thu",
+				"Holiday": "Nuzul Al-Quran"
+			},
+			{
+				"Date": "18 June",
+				"Day": "Tue",
+				"Holiday": "Hari Raya Haji Holiday"
+			},
+			{
+				"Date": "31 October",
+				"Day": "Thu",
+				"Holiday": "Deepavali"
+			}
+		],
+		"Penang": [
+			{
+				"Date": "25 January",
+				"Day": "Thu",
+				"Holiday": "Thaipusam"
+			},
+			{
+				"Date": "07 July",
+				"Day": "Sun",
+				"Holiday": "Georgetown World Heritage City Day"
+			},
+			{
+				"Date": "13 July",
+				"Day": "Sat",
+				"Holiday": "Penang Governor's Birthday"
+			},
+			{
+				"Date": "12 February",
+				"Day": "Mon",
+				"Holiday": "Chinese New Year Holiday"
+			},
+			{
+				"Date": "28 March",
+				"Day": "Thu",
+				"Holiday": "Nuzul Al-Quran"
+			},
+			{
+				"Date": "31 October",
+				"Day": "Thu",
+				"Holiday": "Deepavali"
+			},
+			{
+				"Date": "01 January",
+				"Day": "Mon",
+				"Holiday": "New Year's Day"
+			}
+		],
+		"Melaka": [
+			{
+				"Date": "20-February",
+				"Day": "Tue",
+				"Holiday": "Hari Pengisytiharan Tarikh Kemerdekaan"
+			},
+			{
+				"Date": "24 August",
+				"Day": "Sat",
+				"Holiday": "Melaka Governor's Birthday"
+			},
+			{
+				"Date": "12 February",
+				"Day": "Mon",
+				"Holiday": "Chinese New Year Holiday"
+			},
+			{
+				"Date": "12 March",
+				"Day": "Tue",
+				"Holiday": "Awal Ramadan"
+			},
+			{
+				"Date": "31 October",
+				"Day": "Thu",
+				"Holiday": "Deepavali"
+			},
+			{
+				"Date": "01 January",
+				"Day": "Mon",
+				"Holiday": "New Year's Day"
+			}
+		],
+		"Terengganu": [
+			{
+				"Date": "04 March",
+				"Day": "Mon",
+				"Holiday": "Installation of Sultan Terengganu"
+			},
+			{
+				"Date": "16 June",
+				"Day": "Sun",
+				"Holiday": "Arafat Day"
+			},
+			{
+				"Date": "26 April",
+				"Day": "Fri",
+				"Holiday": "Sultan of Terengganu's Birthday"
+			},
+			{
+				"Date": "08 February",
+				"Day": "Thu",
+				"Holiday": "Israk and Mikraj"
+			},
+			{
+				"Date": "28 March",
+				"Day": "Thu",
+				"Holiday": "Nuzul Al-Quran"
+			},
+			{
+				"Date": "18 June",
+				"Day": "Tue",
+				"Holiday": "Hari Raya Haji Holiday"
+			},
+			{
+				"Date": "31 October",
+				"Day": "Thu",
+				"Holiday": "Deepavali"
+			}
+		],
+		"Pahang": [
+			{
+				"Date": "22 May",
+				"Day": "Wed",
+				"Holiday": "Hari Hol Pahang"
+			},
+			{
+				"Date": "30 July",
+				"Day": "Tue",
+				"Holiday": "Sultan of Pahang's Birthday"
+			},
+			{
+				"Date": "12 February",
+				"Day": "Mon",
+				"Holiday": "Chinese New Year Holiday"
+			},
+			{
+				"Date": "28 March",
+				"Day": "Thu",
+				"Holiday": "Nuzul Al-Quran"
+			},
+			{
+				"Date": "31 October",
+				"Day": "Thu",
+				"Holiday": "Deepavali"
+			},
+			{
+				"Date": "01 January",
+				"Day": "Mon",
+				"Holiday": "New Year's Day"
+			}
+		],
+		"Kelantan": [
+			{
+				"Date": "18 June",
+				"Day": "Tue",
+				"Holiday": "Hari Raya Haji Holiday"
+			},
+			{
+				"Date": "29 September",
+				"Day": "Sun",
+				"Holiday": "Sultan of Kelantan's Birthday"
+			},
+			{
+				"Date": "30 September",
+				"Day": "Mon",
+				"Holiday": "Sultan of Kelantan's Birthday Holiday"
+			},
+			{
+				"Date": "28 March",
+				"Day": "Thu",
+				"Holiday": "Nuzul Al-Quran"
+			},
+			{
+				"Date": "31 October",
+				"Day": "Thu",
+				"Holiday": "Deepavali"
+			}
+		],
+		"Sabah": [
+			{
+				"Date": "29 March",
+				"Day": "Fri",
+				"Holiday": "Good Friday"
+			},
+			{
+				"Date": "30 May",
+				"Day": "Thu",
+				"Holiday": "Harvest Festival"
+			},
+			{
+				"Date": "31 May",
+				"Day": "Fri",
+				"Holiday": "Harvest Festival Holiday"
+			},
+			{
+				"Date": "05 October",
+				"Day": "Sat",
+				"Holiday": "Sabah Governor's Birthday"
+			},
+			{
+				"Date": "24 December",
+				"Day": "Tue",
+				"Holiday": "Christmas Eve"
+			},
+			{
+				"Date": "12 February",
+				"Day": "Mon",
+				"Holiday": "Chinese New Year Holiday"
+			},
+			{
+				"Date": "31 October",
+				"Day": "Thu",
+				"Holiday": "Deepavali"
+			},
+			{
+				"Date": "01 January",
+				"Day": "Mon",
+				"Holiday": "New Year's Day"
+			}
+		],
+		"Sarawak": [
+			{
+				"Date": "01 June",
+				"Day": "Sat",
+				"Holiday": "Hari Gawai"
+			},
+			{
+				"Date": "02 June",
+				"Day": "Sub",
+				"Holiday": "Hari Gawai Holiday"
+			},
+			{
+				"Date": "03 June",
+				"Day": "Mon",
+				"Holiday": "Hari Gawai Holiday"
+			},
+			{
+				"Date": "22 July",
+				"Day": "Mon",
+				"Holiday": "Sarawak Day"
+			},
+			{
+				"Date": "12 October",
+				"Day": "Sat",
+				"Holiday": "Sarawak Governor's Birthday"
+			},
+			{
+				"Date": "12 February",
+				"Day": "Mon",
+				"Holiday": "Chinese New Year Holiday"
+			},
+			{
+				"Date": "01 January",
+				"Day": "Mon",
+				"Holiday": "New Year's Day"
+			}
+		],
+		"Perak": [
+			{
+				"Date": "01 November",
+				"Day": "Fri",
+				"Holiday": "Sultan of Perak's Birthday"
+			},
+			{
+				"Date": "25 January",
+				"Day": "Thu",
+				"Holiday": "Thaipusam"
+			},
+			{
+				"Date": "12 February",
+				"Day": "Mon",
+				"Holiday": "Chinese New Year Holiday"
+			},
+			{
+				"Date": "28 March",
+				"Day": "Thu",
+				"Holiday": "Nuzul Al-Quran"
+			},
+			{
+				"Date": "31 October",
+				"Day": "Thu",
+				"Holiday": "Deepavali"
+			},
+			{
+				"Date": "01 January",
+				"Day": "Mon",
+				"Holiday": "New Year's Day"
+			}
+		],
+		"Selangor": [
+			{
+				"Date": "11 December",
+				"Day": "Wed",
+				"Holiday": "Sultan of Selangor's Birthday"
+			},
+			{
+				"Date": "25 January",
+				"Day": "Thu",
+				"Holiday": "Thaipusam"
+			},
+			{
+				"Date": "12 February",
+				"Day": "Mon",
+				"Holiday": "Chinese New Year Holiday"
+			},
+			{
+				"Date": "28 March",
+				"Day": "Thu",
+				"Holiday": "Nuzul Al-Quran"
+			},
+			{
+				"Date": "31 October",
+				"Day": "Thu",
+				"Holiday": "Deepavali"
+			},
+			{
+				"Date": "01 January",
+				"Day": "Mon",
+				"Holiday": "New Year's Day"
+			}
+		]
+	}
+]

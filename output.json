@@ -1,0 +1,302 @@
+[
+  {
+    "Date": "01 Jan",
+    "Day": "Mon",
+    "Holiday": "New Year's Day",
+    "States": "National except Johor, Kedah, Kelantan, Perlis & Terengganu"
+  },
+  {
+    "Date": "14 Jan",
+    "Day": "Sun",
+    "Holiday": "YDPB Negeri Sembilan's Birthday",
+    "States": "Negeri Sembilan"
+  },
+  {
+    "Date": "25 Jan",
+    "Day": "Thu",
+    "Holiday": "Thaipusam",
+    "States": "Johor, Kuala Lumpur, Negeri Sembilan, Penang, Perak, Putrajaya & Selangor"
+  },
+  {
+    "Date": "01 Feb",
+    "Day": "Thu",
+    "Holiday": "Federal Territory Day",
+    "States": "Kuala Lumpur, Labuan & Putrajaya"
+  },
+  {
+    "Date": "08 Feb",
+    "Day": "Thu",
+    "Holiday": "Israk and Mikraj",
+    "States": "Kedah, Negeri Sembilan, Perlis & Terengganu"
+  },
+  {
+    "Date": "10 Feb",
+    "Day": "Sat",
+    "Holiday": "Chinese New Year",
+    "States": "National"
+  },
+  {
+    "Date": "11 Feb",
+    "Day": "Sun",
+    "Holiday": "Chinese New Year Holiday",
+    "States": "National"
+  },
+  {
+    "Date": "12 Feb",
+    "Day": "Mon",
+    "Holiday": "Chinese New Year Holiday",
+    "States": "National except Johor, Kedah, Kelantan & Terengganu"
+  },
+  {
+    "Date": "20-Feb",
+    "Day": "Tue",
+    "Holiday": "Hari Pengisytiharan Tarikh Kemerdekaan",
+    "States": "Melaka"
+  },
+  {
+    "Date": "04 Mar",
+    "Day": "Mon",
+    "Holiday": "Installation of Sultan Terengganu",
+    "States": "Terengganu"
+  },
+  {
+    "Date": "12 Mar",
+    "Day": "Tue",
+    "Holiday": "Awal Ramadan",
+    "States": "Johor, Kedah & Melaka"
+  },
+  {
+    "Date": "23 Mar",
+    "Day": "Sat",
+    "Holiday": "Sultan of Johor's Birthday",
+    "States": "Johor"
+  },
+  {
+    "Date": "28 Mar",
+    "Day": "Thu",
+    "Holiday": "Nuzul Al-Quran",
+    "States": "National except Johor, Kedah, Melaka, Negeri Sembilan, Sabah & Sarawak"
+  },
+  {
+    "Date": "29 Mar",
+    "Day": "Fri",
+    "Holiday": "Good Friday",
+    "States": "Sabah & Sarawak"
+  },
+  {
+    "Date": "10 Apr",
+    "Day": "Wed",
+    "Holiday": "Hari Raya Aidilfitri",
+    "States": "National"
+  },
+  {
+    "Date": "11 Apr",
+    "Day": "Thu",
+    "Holiday": "Hari Raya Aidilfitri Holiday",
+    "States": "National"
+  },
+  {
+    "Date": "26 Apr",
+    "Day": "Fri",
+    "Holiday": "Sultan of Terengganu's Birthday",
+    "States": "Terengganu"
+  },
+  {
+    "Date": "01 May",
+    "Day": "Wed",
+    "Holiday": "Labour Day",
+    "States": "National"
+  },
+  {
+    "Date": "17 May",
+    "Day": "Fri",
+    "Holiday": "Raja Perlis' Birthday",
+    "States": "Perlis"
+  },
+  {
+    "Date": "22 May",
+    "Day": "Wed",
+    "Holiday": "Hari Hol Pahang",
+    "States": "Pahang"
+  },
+  {
+    "Date": "22 May",
+    "Day": "Wed",
+    "Holiday": "Wesak Day",
+    "States": "National"
+  },
+  {
+    "Date": "30 May",
+    "Day": "Thu",
+    "Holiday": "Harvest Festival",
+    "States": "Labuan & Sabah"
+  },
+  {
+    "Date": "31 May",
+    "Day": "Fri",
+    "Holiday": "Harvest Festival Holiday",
+    "States": "Labuan & Sabah"
+  },
+  {
+    "Date": "01 Jun",
+    "Day": "Sat",
+    "Holiday": "Hari Gawai",
+    "States": "Sarawak"
+  },
+  {
+    "Date": "02 Jun",
+    "Day": "Sub",
+    "Holiday": "Hari Gawai Holiday",
+    "States": "Sarawak"
+  },
+  {
+    "Date": "03 Jun",
+    "Day": "Mon",
+    "Holiday": "Hari Gawai Holiday",
+    "States": "Sarawak"
+  },
+  {
+    "Date": "03 Jun",
+    "Day": "Mon",
+    "Holiday": "Agong's Birthday",
+    "States": "National"
+  },
+  {
+    "Date": "16 Jun",
+    "Day": "Sun",
+    "Holiday": "Arafat Day",
+    "States": "Terengganu"
+  },
+  {
+    "Date": "17 Jun",
+    "Day": "Mon",
+    "Holiday": "Hari Raya Haji",
+    "States": "National"
+  },
+  {
+    "Date": "18 Jun",
+    "Day": "Tue",
+    "Holiday": "Hari Raya Haji Holiday",
+    "States": "Kedah, Kelantan, Perlis & Terengganu"
+  },
+  {
+    "Date": "30-Jun",
+    "Day": "Sun",
+    "Holiday": "Sultan of Kedah's Birthday",
+    "States": "Kedah"
+  },
+  {
+    "Date": "07 Jul",
+    "Day": "Sun",
+    "Holiday": "Georgetown World Heritage City Day",
+    "States": "Penang"
+  },
+  {
+    "Date": "07 Jul",
+    "Day": "Sun",
+    "Holiday": "Awal Muharram",
+    "States": "National"
+  },
+  {
+    "Date": "13 Jul",
+    "Day": "Sat",
+    "Holiday": "Penang Governor's Birthday",
+    "States": "Penang"
+  },
+  {
+    "Date": "22 Jul",
+    "Day": "Mon",
+    "Holiday": "Sarawak Day",
+    "States": "Sarawak"
+  },
+  {
+    "Date": "30 Jul",
+    "Day": "Tue",
+    "Holiday": "Sultan of Pahang's Birthday",
+    "States": "Pahang"
+  },
+  {
+    "Date": "11 Aug",
+    "Day": "Sun",
+    "Holiday": "Hari Hol Almarhum Sultan Iskandar",
+    "States": "Johor"
+  },
+  {
+    "Date": "24 Aug",
+    "Day": "Sat",
+    "Holiday": "Melaka Governor's Birthday",
+    "States": "Melaka"
+  },
+  {
+    "Date": "31 Aug",
+    "Day": "Sat",
+    "Holiday": "Merdeka Day",
+    "States": "National"
+  },
+  {
+    "Date": "16 Sep",
+    "Day": "Mon",
+    "Holiday": "Malaysia Day",
+    "States": "National"
+  },
+  {
+    "Date": "16 Sep",
+    "Day": "Mon",
+    "Holiday": "Prophet Muhammad's Birthday",
+    "States": "National"
+  },
+  {
+    "Date": "29 Sep",
+    "Day": "Sun",
+    "Holiday": "Sultan of Kelantan's Birthday",
+    "States": "Kelantan"
+  },
+  {
+    "Date": "30 Sep",
+    "Day": "Mon",
+    "Holiday": "Sultan of Kelantan's Birthday Holiday",
+    "States": "Kelantan"
+  },
+  {
+    "Date": "05 Oct",
+    "Day": "Sat",
+    "Holiday": "Sabah Governor's Birthday",
+    "States": "Sabah"
+  },
+  {
+    "Date": "12 Oct",
+    "Day": "Sat",
+    "Holiday": "Sarawak Governor's Birthday",
+    "States": "Sarawak"
+  },
+  {
+    "Date": "31 Oct",
+    "Day": "Thu",
+    "Holiday": "Deepavali",
+    "States": "National except Sarawak"
+  },
+  {
+    "Date": "01 Nov",
+    "Day": "Fri",
+    "Holiday": "Sultan of Perak's Birthday",
+    "States": "Perak"
+  },
+  {
+    "Date": "11 Dec",
+    "Day": "Wed",
+    "Holiday": "Sultan of Selangor's Birthday",
+    "States": "Selangor"
+  },
+  {
+    "Date": "24 Dec",
+    "Day": "Tue",
+    "Holiday": "Christmas Eve",
+    "States": "Sabah"
+  },
+  {
+    "Date": "25 Dec",
+    "Day": "Wed",
+    "Holiday": "Christmas Day",
+    "States": "National"
+  }
+]
